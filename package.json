@@ -7,7 +7,7 @@
     "lint": "eslint . --ext .js,.jsx,.ts,.tsx",
     "prettify": "prettier --write .",
     "start": "tsc && node dist/app.js",
-    "test": "yarn jest --config ./jest.config.js"
+    "test": "yarn jest"
   },
   "repository": {
     "type": "git",

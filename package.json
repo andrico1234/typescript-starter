@@ -38,5 +38,8 @@
   "bugs": {
     "url": "https://github.com/andrico1234/typescript-starter/issues"
   },
-  "homepage": "https://github.com/andrico1234/typescript-starter#readme"
+  "homepage": "https://github.com/andrico1234/typescript-starter#readme",
+  "dependencies": {
+    "mathjs-expression-parser": "^1.0.2"
+  }
 }
